@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/200-science/210-biology/unit-1-2-biomolecules/ribonucleic-acid/","updated":"2024-02-09T08:55:23.381-06:00"}
+---
+
+2023-12-18  
+20:33
+Status: #Science/Biology/note #incomplete 
+Links: [[200 Science/210 Biology/Biology\|Biology]]
+
+[[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid\|Ribonucleic Acid]] ([[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid\|RNA]]) is a [[Flashcards/Science/Biology/Polymer\|polymeric]] molecule that is **essential for most biological functions, either by performing the function itself (non-coding RNA) or by forming a template for the production of [[Flashcards/Science/Biology/Proteins\|Proteins]] ([[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid#Ribosomal RNA\|messenger RNA]]**). RNA and [[200 Science/210 Biology/Unit 1.2 - Biomolecules/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] ([[200 Science/210 Biology/Unit 1.2 - Biomolecules/Deoxyribonucleic Acid\|DNA]]) are [[Flashcards/Science/Biology/Nucleic Acids\|Nucleic Acids]]. The [[Flashcards/Science/Biology/Nucleic Acids\|Nucleic Acids]] constitute one of the four major [[Flashcards/Science/Biology/Macromolecule\|macromolecule]][^1] essential for all known forms of life. RNA is assembled as a chain of nucleotides. ==Cellular organisms use messenger RNA (mRNA) to convey genetic information (using the nitrogenous bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) that directs synthesis of specific [[Flashcards/Science/Biology/Proteins\|Proteins]].== Many [[Flashcards/Science/Biology/Virus\|viruses]] encode their genetic information using an RNA genome. **Some RNA molecules play an active role within [[Cell\|cells]] by catalyzing biological reactions, controlling gene expression, or sensing and communicating responses to cellular signals.** **One of these active processes is protein synthesis, a universal function in which [[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid\|RNA]] molecules direct the synthesis of [[Flashcards/Science/Biology/Proteins\|Proteins]] on [[Ribosomes\|Ribosomes]]. This process uses [[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid#Transfer RNA\|transfer RNA]] ([[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid#Transfer RNA\|tRNA]]) molecules to deliver [[Amino Acids\|amino acids]] to the ribosome, where [[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid#Ribosomal RNA\|ribosomal RNA]] ([[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid#Ribosomal RNA\|rRNA]]) then links amino acids together to form coded [[Flashcards/Science/Biology/Proteins\|Proteins]].**
+## Messenger RNA
+## Transfer RNA
+## Ribosomal RNA
+
+[^1]: [[Flashcards/Science/Biology/Biomolecule\|Biomolecule]]

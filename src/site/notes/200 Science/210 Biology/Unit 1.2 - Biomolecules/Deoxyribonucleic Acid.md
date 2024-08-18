@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/200-science/210-biology/unit-1-2-biomolecules/deoxyribonucleic-acid/","updated":"2024-02-28T15:34:32.863-06:00"}
+---
+
+2023-12-18  
+20:33
+Status: #Science/Biology/note
+Links: [[200 Science/210 Biology/Biology\|Biology]]
+
+**[[200 Science/210 Biology/Unit 1.2 - Biomolecules/Deoxyribonucleic Acid\|Deoxyribonucleic Acid]] ([[200 Science/210 Biology/Unit 1.2 - Biomolecules/Deoxyribonucleic Acid\|DNA]]) is a [[Flashcards/Science/Biology/Polymer\|Polymer]] composed of two polynucleotide chains that coil around each other to form a double helix**. **The [[Flashcards/Science/Biology/Polymer\|polymer]] carries genetic instructions for the development, functioning, growth and reproduction of all known organisms and many [[Flashcards/Science/Biology/Virus\|viruses]]**. DNA and [[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid\|Ribonucleic Acid]] ([[200 Science/210 Biology/Unit 1.2 - Biomolecules/Ribonucleic Acid\|RNA]]) are [[Flashcards/Science/Biology/Nucleic Acids\|Nucleic Acids]]. Alongside [[Flashcards/Science/Biology/Proteins\|Proteins]], [[Flashcards/Science/Biology/Lipids\|Lipids]], and complex [[Flashcards/Science/Biology/Carbohydrates\|Carbohydrates]] ([[Flashcards/Science/Biology/Polysaccharide\|polysaccharides]]), nucleic acids are one of the four major types of [[Flashcards/Science/Biology/Macromolecule\|macromolecules]] that are essential for all known forms of life. **The two DNA strands are known as polynucleotides[^1] as they are composed of simpler [[Flashcards/Science/Biology/Monomer\|monomeric units]] called nucleotides[^2]. Each nucleotide is composed of one of four [[Periodic Table of Elements/Nitrogen\|Nitrogen]]-containing nucleobases (cytosine, guanine, adenine, or thymine)**, ==a sugar called deoxyribose, and a phosphate group==. The nucleotides are joined to one another in a chain by covalent bonds (known as the phosphodiester linkage) between the sugar of one nucleotide and the phosphate of the next, resulting in an alternating sugar-phosphate backbone. *The nitrogenous bases of the two separate polynucleotide strands are bound together, according to base pairing rules (A with T and C with G), with hydrogen bonds to make double-stranded DNA.* **The complementary nitrogenous bases are divided into two groups, the single-ringed pyrimidines and the double-ringed purines. In DNA, the pyrimidines are thymine and cytosine; the purines are adenine and guanine.**
+
+[^1]: [[Flashcards/Science/Biology/Nucleic Acids\|Nucleic Acid]] [[Flashcards/Science/Biology/Polymer\|Polymer]]
+[^2]: [[Flashcards/Science/Biology/Nucleic Acids\|Nucleic Acid]] [[Flashcards/Science/Biology/Monomer\|Monomer]]  
